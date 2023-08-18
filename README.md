@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+# E-Commerce Complate App - Flutter UI 
 
-This project is a starting point for a Flutter application.
+Cloned from [https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
 
-A few resources to get you started if this is your first Flutter project:
+Contains ui with [nexaflow_flutter_sdk](https://pub.dev/packages/nexaflow_flutter_sdk) for CMS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+https://github.com/getnexaflow/nexfalow-flutter-demo/assets/98218664/9e3f5e56-e6a5-4c15-a0e2-f26841325b85
